@@ -1,0 +1,6 @@
+apue.3e/
+*.o
+*.tar.gz
+bin/*
+!bin/.gitkeep
+*.inc
