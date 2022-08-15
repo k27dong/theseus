@@ -4,3 +4,5 @@ apue.3e/
 bin/*
 !bin/.gitkeep
 *.inc
+.vscode/
+*.a
